@@ -1,7 +1,7 @@
 Summary:	Macros to process XSL formatting objects
 Name:		passivetex
 Version:	1.25
-Release:  16%{?dist}
+Release:  17%{?dist}
 License:	Copyright only
 Group:		Applications/Publishing
 #Source0 could be obtained at
@@ -60,6 +60,9 @@ exit 0
 
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 1.25-17
+- Mass rebuild 2013-12-27
+
 * Thu Feb 14 2013 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 1.25-16
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_19_Mass_Rebuild
 
